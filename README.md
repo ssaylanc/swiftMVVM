@@ -1,3 +1,6 @@
+Swift MVVM Example
+============
+
 MVVM Framework example written in Swift.
 
 ## Includes
@@ -20,6 +23,6 @@ Then edit BaseURL and model structure based on your needs.
 
 ## Libraries used
 
- - [Alamofire](https://github.com/Alamofire/Alamofire/blob/master/README.md)
+ - [Alamofire](https://github.com/Alamofire/Alamofire)
  - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
  - [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper)
